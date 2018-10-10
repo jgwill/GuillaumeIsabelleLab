@@ -1,6 +1,7 @@
 
 
 #@v Auto Commit and export of history
+#USAGE: source loghistoric.sh
 
 
 #arg 1 Comment added to svn commit
@@ -32,6 +33,6 @@ svn ci /backups/historic/$USER.history_DIFF.txt -m "auto export of UEO history D
 svn ci /backups/historic/$USER.history_previous.txt -m "auto export of UEO history PREVIOUS"
 
 
-#cleanup 
+#cleanup
 rm -f  /backups/historic/$USER.history_export.tmp
 

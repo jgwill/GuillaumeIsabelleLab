@@ -1,0 +1,10 @@
+###########################
+############GIX Added
+#
+#### TLID
+tlid=$(date '+%y%m%d%H%M%S');
+export tlid;
+echo "Ystory TLID of this SHELL is : $tlid"
+echo "Run lh to log shell Ystory"
+############
+

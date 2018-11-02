@@ -1,0 +1,9 @@
+###########################
+#####   Ystoric Alias
+alias lh=/etc/scripts/loghistoric.sh
+############################
+
+
+###########################
+alias psnode='ps -aef | grep node'
+############################

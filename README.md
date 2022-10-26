@@ -2,7 +2,7 @@
 
 ## Astia - Artificial Assisted Stylistic Creative exploration 
 
-[see experiments ::guillaumeisabelle.com/projects](https://guillaumeisabelle.com/projects]
+[see experiments ::guillaumeisabelle.com/projets/astia](https://guillaumeisabelle.com/projets/astia]
 
 ## Fogram
 
